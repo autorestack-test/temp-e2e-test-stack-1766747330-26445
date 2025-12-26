@@ -1,5 +1,5 @@
 Feature 5 change on line 2
-Feature 5 base content line 2
+Feature 6 conflicting content line 2
 Line 3
 Line 4
 Line 5
